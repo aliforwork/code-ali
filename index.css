@@ -6,7 +6,7 @@
     position: relative;
 }
 .child{
-    border: 5px solid rgb(0, 0, 0);
+    border: 6px solid rgb(0, 0, 0);
     width: 100px;
     height: 100px;
     text-align: center;
